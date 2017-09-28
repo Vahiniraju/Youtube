@@ -1,0 +1,114 @@
+.header
+{
+	position: fixed; 
+	left: 10px;
+	height: 60px;
+	width: 100%;
+	background: white;
+	z-index: 1;	
+}
+
+
+.bar1,.bar2,.bar3
+{
+	
+	width: 20px;
+	height: 4px;
+	margin: 6px 0;
+	background-color: #333;
+}
+
+.icon 
+{
+	position: absolute;
+	top: 8px;
+	left: 40px;
+	height: 50px;
+	width: 120px;
+}
+
+.menu
+{
+	position: absolute;
+	top: 20px;
+
+}
+
+.search
+{
+	position: absolute;
+	top: 15px;
+	left: 200px;
+	margin : 5px 0;
+	width: 450px;
+	height: 25px;
+	font-size: 17px;
+	background-color: white;
+	vertical-align: middle;
+}
+
+.searchbutton
+{
+	position: absolute;
+	left: 655px;
+	border : solid;
+	border-color: #333;
+	top: 20px;
+}
+
+
+.playbox
+{
+	height: 400px;
+	width: 560px;
+	top: 50px;
+	left: 100px;
+}
+
+.youtube
+{
+	position: absolute;
+	top: 70px;
+	width: 100%;
+	height: 100%;
+	background-color: #f3f6f9;
+}
+
+.mainvideo
+{
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+.content
+{
+	position: absolute;
+	top: 600px;
+	left: 60px;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: Verdana;
+	height: 10%;
+	width: 60%;
+	background-color: #f3f6f9;
+
+}
+
+.sidebox
+{
+	position: absolute;
+	background-color:  #f3f6f9;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: Verdana;
+	left: 68%;
+
+}
+
+.sidevideo
+{
+	width: 200px;
+	height: 110px;
+	left: 68%;
+}
